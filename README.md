@@ -1,5 +1,5 @@
-# vscode
-Tips and tricks that I learned using VS Code
+# **_VS Code_**
+Alguns comandos e atalhos que conheci usando o VS Code e dando uma pesquisada no site
 
 # Conhecidos 
 
