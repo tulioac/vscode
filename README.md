@@ -11,6 +11,7 @@ Alguns comandos e atalhos que conheci usando o VS Code e dando uma pesquisada no
 - Copiar linha usando `Ctrl+C` (sem precisar selecionar)
 - Copiar linha para cima e baixo usando `Shift+Alt+Up` e `Shilft+Alt+Down`
 - Selecionar linha toda usando `Ctrl+L`
+- Recortar a linha usando `Ctrl+X` 
 
 ### Cursores
 
