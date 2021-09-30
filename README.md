@@ -58,4 +58,4 @@ Alguns comandos e atalhos que conheci usando o VS Code e dando uma pesquisada no
 ## Edição
 
 - Adicionar seleções simultâneas usando `Shift+Alt+Click` entre o cursor do mouse e o cursor de digitação
-   - ![Vários cursores](https://user-images.githubusercontent.com/44248592/112475654-d0cd9980-8d4f-11eb-96f9-f58d618df803.gif)
+![Vários cursores](https://user-images.githubusercontent.com/44248592/112475654-d0cd9980-8d4f-11eb-96f9-f58d618df803.gif)
